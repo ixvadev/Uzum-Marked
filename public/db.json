@@ -1,0 +1,236 @@
+{
+    "popularProducts": [
+        {
+         "id": 1,
+         "image": "https://images.uzum.uz/cq2d64r5qt1gj8ddsfk0/t_product_540_high.jpg#1721112523526",
+         "imgSubtitle": "Original",
+         "title": "Пылесос Bosch BGC21X300",
+         "rating": 4.6,
+         "ratingVoice": 64,
+         "monthlyPayment":  256550,
+         "oldPrice": 3930000,
+         "price": 2199000
+        },
+        {
+         "id": 2,
+         "image": "https://images.uzum.uz/cq5t1f8sarnfdo9au860/t_product_540_high.jpg#1721112523531",
+         "imgSubtitle": "Original",
+         "discount":  "Акция",
+         "title": "Холодильник двухкамерный Бирюса 151, объём 240 л, LED освещение",
+         "rating": 4.6,
+         "ratingVoice": 64,
+         "monthlyPayment":  256550,
+         "oldPrice": 3930000,
+         "price": 2199000
+        },
+          {
+         "id": 3,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Smartfon Xiaomi Redmi Note 13, 6/128 GB, 8/128 GB, 8/256GB,…",
+         "rating": 5,
+         "ratingVoice": 8,
+         "monthlyPayment":  299880,
+         "oldPrice": 3010000,
+         "price": 2499000
+        },
+        {
+         "id": 4,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Eksklyuziv",
+         "title": "Kir yuvish kukuni Oila tanlovi  Ayoztazeligi, avtomat, 3 kg",
+         "rating": 4.5,
+         "ratingVoice": 123,
+         "monthlyPayment":  4920,
+         "oldPrice": 57000,
+         "price": 41000
+        },
+        {
+         "id": 5,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Yangi tug'ilgan chaqaloqlar uchun tana to'plami 100% paxta, 3 dona",
+         "rating": 5,
+         "ratingVoice": 1,
+         "monthlyPayment":  11880,
+         "oldPrice": 160000,
+         "price": 99000
+        },
+        {
+         "id": 6,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Eksklyuziv",
+         "title": "Sdobnoe pechenye Zarqand Brownie cookies, 490 g",
+         "rating": 0,
+         "ratingVoice": 0,
+         "monthlyPayment":  4320,
+         "oldPrice": 59000,
+         "price": 36000
+        },
+        {
+         "id": 7,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Televizor Samsung Crystal UHD 4K 43, 50, 55, 65 CU7100 Smart TV",
+         "rating": 5,
+         "ratingVoice": 5,
+         "monthlyPayment":  587880,
+         "oldPrice": 5830000,
+         "price": 4899000
+        },
+        {
+         "id": 8,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Avtomobil va uy uchun portativ, simsiz, kuchli JB-107 changyutgic…",
+         "rating": 4.7,
+         "ratingVoice": 32,
+         "monthlyPayment":  23880,
+         "oldPrice": 620000,
+         "price": 199000
+        },
+        {
+         "id": 9,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Sumka shopper ayollar uchun, yelkama, charmdan, eko zamsh,…",
+         "rating": 5.0,
+         "ratingVoice": 4,
+         "monthlyPayment":  11880,
+         "oldPrice": 400000,
+         "price": 99000
+        },
+        {
+         "id": 10,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Smartfon Xiaomi Redmi Note 13 Pro, 8/256 ГБ, 12/512 ГБ, 6.67",
+         "rating": 5.0,
+         "ratingVoice": 6,
+         "monthlyPayment":  448680,
+         "oldPrice": 6000000,
+         "price": 3739000
+        },
+        {
+         "id": 11,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Yostiqlar to'plami, bambukdan, gipoallergenli, ekologik toza, 70 *…",
+         "rating": 4.9,
+         "ratingVoice": 165,
+         "monthlyPayment":  10680,
+         "oldPrice": 197000,
+         "price": 89000
+        },
+        {
+         "id": 12,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Drel shurup buragich L-FINE, cho'tkasiz to'plam, 54 ta buyumdan",
+         "rating": 5.0,
+         "ratingVoice": 10,
+         "monthlyPayment":  71880,
+         "oldPrice": 850000,
+         "price": 599000
+        },
+        {
+         "id": 13,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "DI sport",
+         "title": "Erkaklar uchun krossovka Joma r.vitaly men 2201 black",
+         "rating": 5.0,
+         "ratingVoice": 20,
+         "monthlyPayment":  41880,
+         "oldPrice": 687000,
+         "price": 349000
+        },
+        {
+         "id": 14,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Kir yuvish mashinasi Beko WSPE7612A, Inverter ProSmart, 7…",
+         "rating": 4.9,
+         "ratingVoice": 47,
+         "monthlyPayment":  455880,
+         "oldPrice": 4570000,
+         "price": 3799000
+        },
+        {
+         "id": 15,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya Pepsi",
+         "title": "Gazlangan ichimlik Pepsi, 1.5 litr",
+         "rating": 4.9,
+         "ratingVoice": 1939,
+         "monthlyPayment":  1440,
+         "oldPrice": 13000,
+         "price": 12000
+        },
+        {
+         "id": 16,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Casio F-91W Qo'l Soati, Elektron tablo, Budilnik, Sekundomer, LED…",
+         "rating": 5.0,
+         "ratingVoice": 3,
+         "monthlyPayment":  35880,
+         "oldPrice": 420000,
+         "price": 299000
+        },
+        {
+         "id": 17,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Sport kostyumi o'g'il bolalar uchun DUDUKA TRENDS. To'plam Hudi…",
+         "rating": 0,
+         "ratingVoice": 0,
+         "monthlyPayment":  23880,
+         "oldPrice": 388000,
+         "price": 199000
+        },
+        {
+         "id": 18,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Chanyutgich Artel VCB0316, 1600 Vt",
+         "rating": 4.9,
+         "ratingVoice": 48,
+         "monthlyPayment":  83880,
+         "oldPrice": 999000,
+         "price": 699000
+        },
+        {
+         "id": 19,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Avtomobil monitorlari Teyes CC2L Plus 10.2/2+32 Gentra, Lasetti…",
+         "rating": 4.2,
+         "ratingVoice": 29,
+         "monthlyPayment":  142800,
+         "oldPrice": 1752000,
+         "price": 1190000
+        },
+        {
+         "id": 20,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Shampun L'Oreal Paris Elseve, to'liq tiklanish 5, 250 ml",
+         "rating": 5,
+         "ratingVoice": 6,
+         "monthlyPayment":  3240,
+         "oldPrice": 38000,
+         "price":  27000
+        },
+        {
+         "id": 21,
+         "image": "https://placehold.co/400x540",
+         "imgSubtitle": "Aksiya",
+         "title": "Tabiiy charmdan tayyorlangan etiklar, qishki, mex bilan, suv…",
+       "rating": 0,
+         "ratingVoice": 0,
+         "monthlyPayment":  35880,
+         "oldPrice": 599000,
+         "price":   299000
+        }
+    ] 
+ }
