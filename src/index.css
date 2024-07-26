@@ -1,0 +1,233 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+  text-decoration: none;
+}
+
+.headerBar {
+  display: flex;
+  max-width: 1129px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headerMenu {
+  display: flex;
+  align-items: center;
+}
+
+.citys {
+  margin-left: 10px;
+}
+
+.citys a {
+  margin-left: 10px;
+  color: #1F2026;
+  font-size: 17px;
+}
+
+.city {
+  margin-right: 10px;
+}
+
+.city p {
+  margin: 0;
+}
+
+.headerInfo {
+  margin: 10px 0;
+}
+
+.headerLinks {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.headerLinks a {
+  color: #595B66;
+}
+
+.leangue {
+  align-items: center;
+  margin-left: 10px;
+}
+
+.leangue a {
+  color: #1F2026;
+  margin-left: 5px;
+  padding-bottom: 7px;
+}
+
+.hero {
+  display: flex;
+  max-width: 1129px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heroIcon,
+.heroSearch,
+.heroService {
+  display: flex;
+  align-items: center;
+}
+
+.heroIcon {
+  order: 1;
+}
+
+.heroIcon img {
+  margin-right: 10px;
+}
+
+.heroIcon h2 {
+  color: rgb(112, 0, 255);
+  font-size: 31px;
+}
+
+.heroSearch {
+  order: 2;
+  margin: 0 20px; 
+}
+
+.heroSearch input {
+  background: #fff;
+    border: 1px solid rgb(215, 215, 217);
+    border-radius: 4px;
+    box-shadow: 0 0 0 0 rgb(54, 54, 64),0 0 0 0 rgb(74, 74, 85);
+    color: #1f2026;
+    font-size: .875rem;
+    font-weight: 400;
+    height: 40px;
+    margin: 0;
+    outline: none;
+    padding: 0 calc(15% + 38px) 0 16px;
+    vertical-align: top;
+    width: 400px
+}
+
+.heroService {
+  order: 3;
+}
+
+.heroService img {
+  margin-right: 10px;
+}
+
+.btn {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  white-space-collapse: collapse;
+  background: rgb(240, 240, 255);
+  padding: 10px 10px;
+  border-radius: 5px;
+  color: rgb(112, 0, 255);
+}
+
+.btn img {
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  margin-right: 5px;
+}
+
+.btn p {
+  margin-top: 5px; 
+}
+
+.accaountMenu {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-right: 10px;
+}
+
+.heroService a {
+  font-size: 15px;
+  font-weight: bolder;
+  color: #1F2026;
+}
+
+.savedMenu {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-right: 10px;
+}
+
+.bagMenu {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  max-width: 1129px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 8px;
+  align-items: center;
+  text-align: center;
+}
+
+.links a {
+  font-size: 14px;
+}
+
+.union {
+  align-items: center;
+  color: #1F2026;
+  font-weight: bolder;
+  text-align:  center;
+}
+
+.foiz {
+  align-items: center;
+  text-align: center;
+  color: #1F2026;
+  font-weight: bolder;
+}
+
+.links a {
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.5s ease;
+}
+
+.links a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #000; 
+    transition: width 0.7s ease; 
+}
+
+.links a:hover {
+    color: #000; 
+}
+
+.links a:hover::after {
+    width: 100%; 
+}
